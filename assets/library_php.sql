@@ -31,9 +31,9 @@ INSERT INTO people (id, firstname, lastname, card_number, adress) VALUES
 (2, 'Richard', 'Dupond', 456, '9 avenue des maracas');
 
 INSERT INTO books (id, book_name, writer, resume, created_date, category, borrowed, people_id) VALUES
-(1, 'Harry potier le sourcier', 'Jiké Rouling', 'Harry va à une école pour devenir le plus grand sourcier de sa génération , il devra affronter de nombreux défis pour parvenir à en devenir un.', '26 juin 1997', 'Fiction, Magie', 'yes', 1),
-(2, 'Harry potier le sourcier 2', 'Jiké Rouling', 'Harry va à enfin découvrir de nombreux secrets se cachants dans cette école.', '2 juillet 1998', 'Fiction, Magie', 'no', NULL),
-(3, 'Le seigneur des annales', 'John Ronald Reuel T', 'Le voyage de  gens avec des gros pieds poilus qui essaye de détruire les annales du BAC S au milieu de volcan', '1954-1955', 'Fiction, Fantasy, magie', 'no', NULL);
+(1, 'Đắc nhân tâm', 'Carnagie', 'Câu chuyện về sự thành công và cách thao túng ng xung quanh', '26 June 1997', 'Fiction, Magie', 'yes', 1),
+(2, 'Nhà Giả Kim', 'Linh tinh', 'Cuộc phieu lưu của cậu bé', '2 July 1998', 'Fiction, Magie', 'no', NULL),
+(3, 'Những người khốn khổ', 'John Ronald Reuel T', 'Nói về những người không sướng', '1954-1955', 'Fiction, Fantasy, magie', 'no', NULL);
 
 
 
